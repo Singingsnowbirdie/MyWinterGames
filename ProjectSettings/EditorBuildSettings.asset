@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 57626e0afc39864418cc601aee6bb38b
+  - enabled: 1
+    path: Assets/Scenes/Dress up Santa.unity
+    guid: 56d8044deb93f374c8e85d215fe87271
+  - enabled: 1
+    path: Assets/Scenes/Making snow.unity
+    guid: 929167c14c408874a883e350085e12e4
+  - enabled: 1
+    path: Assets/Scenes/Winter houses.unity
+    guid: 8165b18cfe5b97a43bd1087480503971
+  - enabled: 1
+    path: Assets/Scenes/Rows and columns.unity
+    guid: 71989c96b88a50b4fb19e047ffd1426b
+  - enabled: 1
+    path: Assets/Scenes/Memory Cards.unity
+    guid: 63bfc69db3b35d5498161a0b7c4be70e
+  m_configObjects: {}
